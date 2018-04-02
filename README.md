@@ -16,3 +16,7 @@ Slack your partner. You should both create an array of numbers in a javascript f
 
 Slack your partner. You should both create a new HTML file. Link to it from index.html
     - added colors.html
+    - added contact.html
+
+You should create a new HTML file. Link to it from index.html.
+    - added bio.html
