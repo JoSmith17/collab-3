@@ -10,5 +10,9 @@
 
 ## Tasks
 
-Added array of numbers and sum function. 
+Slack your partner. You should both create an array of numbers in a javascript file. Write a function that finds the sum of the array. 
+	- Added numbers.js
+    - Added array of numbers and sum function. 
 
+Slack your partner. You should both create a new HTML file. Link to it from index.html
+    - added colors.html
