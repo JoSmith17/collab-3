@@ -23,3 +23,6 @@ You should create a new HTML file. Link to it from index.html.
 
 You should remove a file other than index.html
     - removed colors.html
+
+You should remove a file other than index.html
+	-removed bio.html
