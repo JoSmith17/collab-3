@@ -20,3 +20,6 @@ Slack your partner. You should both create a new HTML file. Link to it from inde
 
 You should create a new HTML file. Link to it from index.html.
     - added bio.html
+
+You should remove a file other than index.html
+    - removed colors.html
