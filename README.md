@@ -9,3 +9,6 @@
 7. Once final push is done, submit link to this repo.
 
 ## Tasks
+
+Added array of numbers and sum function. 
+
